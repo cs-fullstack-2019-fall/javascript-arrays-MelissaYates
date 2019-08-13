@@ -1,4 +1,6 @@
 # JavaScript_Set11b_Array
+Good work. 2/3 correct
+Score : 3 points 
 
 ```
 concat()	Joins two or more arrays, and returns a copy of the joined arrays

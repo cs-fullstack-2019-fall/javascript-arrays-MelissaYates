@@ -33,3 +33,5 @@ let names = ["Melissa", "Latrice","Tiffany", "Nigel"];
 for(let i in names){
     console.log(names[2]);
 }
+// Print ONLY the second item in the array (you don't need a loop)
+// Use one of the functions from the read me to delete the second item in the array
